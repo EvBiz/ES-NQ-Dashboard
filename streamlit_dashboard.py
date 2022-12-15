@@ -143,7 +143,7 @@ plt.xlabel(None)
 # Set page width to wide
 st.set_page_config(layout="wide")
 
-st.subheader("ES & NQ Dashboard ")
+st.subheader("Dashboard - Trend, Volatility, Strategy & Leading Indicators")
 st.text(index)
 
 col1, col2, col3 = st.columns(3)
